@@ -1,6 +1,6 @@
 <h1 align = "left">Hi   👋, i'm Martina Guzmán </h1>
 
-![giphy] (https://giphy.com/gifs/20thcenturyfox-8m4QVdIshz8ckvSBOl">via GIPHY</a></p>)
+![giphy] (https://giphy.com/gifs/20thcenturyfox-8m4QVdIshz8ckvSBOl)
 
 <!--
 **martigdf/martigdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
