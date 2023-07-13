@@ -1,4 +1,4 @@
-<h1 align = "left"> 👋 i'm Martina Guzmán </h1>
+<h1 align = "left"> ˚₊‧꒰i'm Martina꒱ ‧₊˚ </h1>
 
 ![giphy](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
