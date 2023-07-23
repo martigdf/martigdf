@@ -1,7 +1,8 @@
 <h1 align = "left"> ˚₊‧ i'm Martina ‧₊˚ </h1>
 
 
-![giphy](https://github.com/martigdf/martigdf/assets/115803827/e7b57683-ca4c-4ed6-8b36-0b739f45c4ab)
+
+![giphy (1)](https://github.com/martigdf/martigdf/assets/115803827/c85078cd-5cfe-4ff9-9bae-471c189b2a9b)
 
 
 
