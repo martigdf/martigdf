@@ -1,6 +1,6 @@
 <h1 align = "left"> ˚₊‧꒰i'm Martina꒱ ‧₊˚ </h1>
 
-![giphy](<iframe src="https://giphy.com/embed/clffiicvvmhXrYaAs8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vaporwave-aesthetic-aesthetics-clffiicvvmhXrYaAs8">via GIPHY</a></p>)
+![giphy](<iframe src="https://giphy.com/embed/clffiicvvmhXrYaAs8")
 
 <!--
 **martigdf/martigdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
