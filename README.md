@@ -1,4 +1,4 @@
-<h1 align = "left"> ˚₊‧꒰i'm Martina꒱ ‧₊˚ </h1>
+<h1 align = "left"> ˚₊‧i'm Martina ‧₊˚ </h1>
 
 ![giphy (1)](https://github.com/martigdf/martigdf/assets/115803827/bece77b6-a90d-4737-982f-3cb36df4dc55)
 
