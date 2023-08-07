@@ -1,4 +1,4 @@
-<h1 align = "left"> ˚₊‧ i'm Martina ‧₊˚ </h1>
+<h1 align = "left"> ˚₊‧ ɪ'ᴍ ᴍᴀʀᴛɪɴᴀ ‧₊˚ </h1>
 
 
 
