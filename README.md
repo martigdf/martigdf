@@ -2,10 +2,6 @@
 
 
 
-![giphy (1)](https://github.com/martigdf/martigdf/assets/115803827/c85078cd-5cfe-4ff9-9bae-471c189b2a9b)
-
-
-
 <!--
 **martigdf/martigdf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
